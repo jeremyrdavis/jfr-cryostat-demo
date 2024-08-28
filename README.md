@@ -23,3 +23,6 @@ quarkus.log.console.format=%-5p [%c{2.}] (%t) %s%e%n
 quarkus.log.level=INFO
 quarkus.log.category."io.arrogantprogrammer".level=DEBUG
 ```
+
+## RHPDS
+OpenShift Console: https://console-openshift-console.apps.cluster-4tdqx.4tdqx.sandbox1315.opentlc.com
